@@ -1,0 +1,2 @@
+#!/bib/bash
+ln -s __ls__ /bin/ls
