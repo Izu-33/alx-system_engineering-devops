@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ampu --group-directories-first
+ls -amp --group-directories-first | sort
