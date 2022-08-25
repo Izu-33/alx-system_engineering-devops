@@ -2,7 +2,7 @@
 
 ## 0. Simple web stack
 
- The web infrastructure design in [0. Simple web stack](0. Simple web stack) illustrates a one server web infrastructure that hosts the website that is reachable via `www.foobar.com`.
+ The web infrastructure design in [0. Simple web stack](0-simple_web_stack) illustrates a one server web infrastructure that hosts the website that is reachable via `www.foobar.com`.
 
 ### Server
 
