@@ -3,3 +3,5 @@
 Host 3.237.11.24
 IdentityFile ~/.ssh/school
 PasswordAuthentication no
+PermitRootLogin no
+PubkeyAuthentication yes
