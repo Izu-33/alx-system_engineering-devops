@@ -2,6 +2,5 @@
 # Configures SSH configuration file in order to connect with no password.
 Host 3.237.11.24
 IdentityFile ~/.ssh/school
-PasswordAuthentication no
-PermitRootLogin no
-PubkeyAuthentication yes
+PasswordAuthentication yes
+PermitRootLogin yes 
