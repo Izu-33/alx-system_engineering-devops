@@ -4,7 +4,7 @@
 #+    Returns a page containing "Hello World!" when queried
 
 apt-get update
-apt-get install -y nginx
+apt-get install -y nginx-full
 
 mkdir /etc/nginx/html
 touch /etc/nginx/html/index.html
