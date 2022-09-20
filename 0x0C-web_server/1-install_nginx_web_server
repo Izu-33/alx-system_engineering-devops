@@ -3,8 +3,8 @@
 #+    Listens on port 80.
 #+    Returns a page containing "Hello World!" when queried
 
-sudo apt-get update
-sudo apt-get install -y nginx-full
+sudo apt update
+sudo apt install -y nginx-full
 
 mkdir /etc/nginx/html
 touch /etc/nginx/html/index.html
